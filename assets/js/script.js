@@ -13,4 +13,3 @@ function pintar(color = 'green') {
 }
 ele.addEventListener("click", function () { pintar ('yellow')});
 
-//4
